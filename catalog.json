@@ -25,12 +25,13 @@
     { "id": "prod-aad0ba22-019", "name": "Premium Item 19", "category": "sports", "price": 461.21, "stock": 177, "rating": 4.1 }
   ],
   "aggregations": {
-  "books": {
-    "count": 5,
-    "inventoryValue": 53930.76
-  },
-  "electronics": {
-    "count": 4,
-    "inventoryValue": 167281.26
+    "books": {
+      "count": 5,
+      "inventoryValue": 53930.76
+    },
+    "electronics": {
+      "count": 4,
+      "inventoryValue": 167281.26
+    }
   }
 }
